@@ -1,0 +1,6 @@
+{
+  "name": "KisanDirect",
+  "description": "Zero-warehouse direct farm-to-doorstep pre-order marketplace connecting local farmers directly with colony consumers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
